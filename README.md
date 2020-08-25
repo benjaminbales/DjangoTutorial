@@ -1,2 +1,2 @@
 # DjangoTutorial
-django tutorial code or toy website
+django tutorial code for toy website
